@@ -8,4 +8,6 @@ it allows the header to show which section is currently "active" in the page.
 - The scrolling effect
 This file listens for clicks on the navigation and then scrolls the page to the appropriate section header.
 <br>
-[link to the website](https://raneem-khafagy.github.io/landing_page/)
+[link to the project](https://raneem-khafagy.github.io/landing_page)
+
+
